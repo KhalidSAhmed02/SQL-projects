@@ -1,3 +1,5 @@
+WORK IN PROGRESS: ETA 2 MONTHS
+
 Portfolio Website - SQL Projects
 
 Welcome to my SQL Projects repository! This space highlights my expertise in SQL through various data-driven projects that showcase data analysis, visualization, and problem-solving skills. Each project is designed to reflect real-world scenarios and provides insights using structured datasets and SQL queries.

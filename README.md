@@ -8,32 +8,36 @@ Welcome to my SQL Projects repository! This space highlights my expertise in SQL
 
 Projects Overview
 
-   1. **E-Commerce Sales Analysis**
-   - **Description**: Analyzed mock e-commerce data to derive business insights such as top-selling products, revenue trends, and customer lifetime value.
-   - **Key Queries**:
-     - Total revenue by category.
-     - Top-selling products.
-     - Monthly sales trends.
-     - Customer lifetime value (CLV) analysis.
+   1. **Public Transit Efficiency in Major Cities**
+   - **Description**: Analyze the efficiency, affordability, and accessibility of public transit in 3-5 major cities.
+
+   - **Key Queries**: 
+   - Average travel times per route.
+   - Delays and peak-hour congestion trends.
+   - Cost-effectiveness comparison (fare vs. median income)
    - **Tools Used**: SQL, Tableau/Power BI (for visualization).
    - **Deliverables**:
-     - SQL scripts for all queries.
-     - Interactive visualizations (available on Tableau/Power BI).
+     - SQL scripts for analysis, cleaned dataset, interactive Tableau/Power BI dashboard, project report summarizing insights, and a README file for replication.
      - [Project Report](#).
 
 ---
 
-   2. **Ontario Housing Market Analysis**
-   - **Description**: Explored housing prices, income levels, and affordability trends across Ontario using structured datasets.
-   - **Key Queries**:
-     - Average housing prices by city.
-     - Income vs. housing price trends.
-     - Affordable housing availability.
-   - **Tools Used**: SQL, Excel, R (for advanced analysis).
-   - **Deliverables**:
-     - SQL scripts and dataset.
-     - Visualization dashboards.
-     - [Project Report](#).
+   2. Income Inequality and Economic Mobility in the U.S.
+
+Description: Analyze income inequality trends and economic mobility across different states and demographics in the U.S.
+
+Key Queries:
+
+Average wage growth by industry (2000-2024)
+Comparison to inflation rates
+Purchasing power changes over time
+Tools Used: SQL, Excel, Python (for advanced analysis)
+
+Deliverables:
+
+SQL scripts and dataset
+Visualization dashboards
+Project Report
 
 ---
 
